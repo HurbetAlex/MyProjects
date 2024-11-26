@@ -1,0 +1,52 @@
+[
+    {
+        "Food Description": "Apple, raw, with skin",
+        "Portion Size": "1 medium (182g)",
+        "Calories": 95
+    },
+    {
+        "Food Description": "Banana, raw",
+        "Portion Size": "1 medium (118g)",
+        "Calories": 105
+    },
+    {
+        "Food Description": "Broccoli, cooked, boiled, drained",
+        "Portion Size": "1 cup, chopped (91g)",
+        "Calories": 55
+    },
+    {
+        "Food Description": "Carrots, raw",
+        "Portion Size": "1 medium (61g)",
+        "Calories": 25
+    },
+    {
+        "Food Description": "Chicken breast, cooked, grilled",
+        "Portion Size": "3 oz (85g)",
+        "Calories": 165
+    },
+    {
+        "Food Description": "Egg, whole, cooked, fried",
+        "Portion Size": "1 large (46g)",
+        "Calories": 90
+    },
+    {
+        "Food Description": "Milk, whole, 3.25% milkfat",
+        "Portion Size": "1 cup (244g)",
+        "Calories": 149
+    },
+    {
+        "Food Description": "Orange, raw, all commercial varieties",
+        "Portion Size": "1 medium (131g)",
+        "Calories": 62
+    },
+    {
+        "Food Description": "Rice, white, cooked, medium-grain",
+        "Portion Size": "1 cup (158g)",
+        "Calories": 206
+    },
+    {
+        "Food Description": "Salmon, cooked, dry heat",
+        "Portion Size": "3 oz (85g)",
+        "Calories": 208
+    }
+]
